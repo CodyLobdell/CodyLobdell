@@ -7,4 +7,6 @@ All the projects currently with my GitHub are constructed from the ground up, fo
 
 As a military verteran, I have a background in Geospatial Imagery Analysis and WAAAAY before that, culinary arts!
 
+In my downtime I love to get outdoors and check out local trail routes. I also enjoy dancing, video games, horror movies, and house music!
+
 I hope to one day create or assist in the creation of of a positive, world-changing product!
