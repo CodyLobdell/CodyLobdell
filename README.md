@@ -10,3 +10,5 @@ As a military verteran, I have a background in Geospatial Imagery Analysis and W
 In my downtime I love to get outdoors and check out local trail routes. I also enjoy dancing, video games, horror movies, and house music!
 
 I hope to one day create or assist in the creation of of a positive, world-changing product!
+
+![Cody's GitHub stats](https://github-readme-stats.vercel.app/api?username=codylobdell&show_icons=true&theme=radical)
