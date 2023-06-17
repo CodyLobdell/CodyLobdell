@@ -3,7 +3,7 @@
 **`Software Developer & Tech-Entrepreneur`** 
 
 Hello there and welcome to my GitHub! I'm a full-stack developer and technological enthusiast with a knack for creating functional projects. 
-All the projects currently with my GitHub are constructed from the ground up, focusing on expading my knowledge and practice with code.
+All the projects currently with my GitHub are constructed from the ground up, focusing on expanding my knowledge and practice with code.
 
 As a military verteran, I have a background in Geospatial Imagery Analysis and WAAAAY before that, culinary arts!
 
